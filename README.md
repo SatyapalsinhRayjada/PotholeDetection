@@ -35,11 +35,11 @@ The primary goal of this project is to:
 To get started with this project, follow these steps:
 
 1. *Clone the Repository*: Use the following command to clone the repository to your local machine.
-[10:50, 07/10/2023] Satyapal: 2. *Install Dependencies*: Ensure you have Flutter and Dart installed. Run the following commands in your project directory to install Flutter dependencies:
-[10:51, 07/10/2023] Satyapal: 3. *Configure the Environment*: Configure your Flutter environment and set up any necessary API keys or credentials required for the application to function properly.
+2. *Install Dependencies*: Ensure you have Flutter and Dart installed. Run the following commands in your project directory to install Flutter dependencies:
+3. *Configure the Environment*: Configure your Flutter environment and set up any necessary API keys or credentials required for the application to function properly.
 
 4. *Run the Application*: Use the following command to run the application on your development environment.
-[10:51, 07/10/2023] Satyapal: ## Usage
+## Usage
 
 - Open the Pothole Detection app on your mobile device.
 - Register or log in to your account.
