@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "599224735397",
+    "project_id": "pothole-detection-1fe25",
+    "storage_bucket": "pothole-detection-1fe25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599224735397:android:4b186da636ff9e2c0c9f4c",
+        "android_client_info": {
+          "package_name": "com.toxic.mvpworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599224735397-6ss6ajlcabjamc8ikua6c9dp9a09pqk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toxic.mvpworking",
+            "certificate_hash": "39ea4e2fe2b143be05f7b76ac06df34a0d0023fe"
+          }
+        },
+        {
+          "client_id": "599224735397-08k1in88stpilklceftseu7sqspth383.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJYE8RMG8ljdN6ej7463TdaVg5K2sw27E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599224735397-08k1in88stpilklceftseu7sqspth383.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599224735397-dams2kjr1hcr50vc28p0fp5mgdoimtsv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mvpworking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
